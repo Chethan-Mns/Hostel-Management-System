@@ -1,9 +1,5 @@
 # Hostel-Management-System
 
-# Hostel Management System
-
-![Hostel Management System Screenshot](images/logo.png)
-
 Hostel Management System is a web application built with HTML, CSS, and Bootstrap that provides information about the hostels at NBKRIST College. This project displays details such as hostel facilities, fee structures, and warden information for the convenience of students and parents.
 
 ## Features
