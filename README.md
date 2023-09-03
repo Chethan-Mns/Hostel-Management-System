@@ -20,7 +20,13 @@ Navigate to the index.html file and open it in your web browser to access the ap
 
 Explore the hostels, view their details, and find contact information for wardens.
 
-## Contributing
 
-If you would like to contribute to this project by adding new features, improving the user interface, or fixing issues, please feel free to submit pull requests. Contributions are welcome and greatly appreciated.
+## Contribution
 
+If you would like to contribute to this project by improving the model, adding new features, or fixing issues, please feel free to submit pull requests. Contributions are welcome and encouraged.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for your own purposes.
+
+Customize the README further to include any additional information or details specific to your project.
