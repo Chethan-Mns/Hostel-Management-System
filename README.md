@@ -10,11 +10,10 @@ Hostel Management System is a web application built with HTML, CSS, and Bootstra
 
 ## Usage
 
-To use the Hostel Management System web application, follow these steps:
-
-1. Clone this repository to your local machine.
+To use the Hostel Management System web application, click the link below:
 
    - [Hostel-Management_System](https://chethan-mns.github.io/Hostel-Management-System/)
+  
 Open the project folder in your code editor.
 
 Navigate to the index.html file and open it in your web browser to access the application.
